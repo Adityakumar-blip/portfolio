@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=My+Soul&family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@200&family=My+Soul&family=Yeseva+One&display=swap');
+
+.navbar-container{
+    background-color: black;
+    font-family: 'Albert Sans', Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    /* height: 14vh; */
+    color: white;
+}
+
+.logo{
+    font-size: 2rem;
+    padding-left: 2rem;
+}
+
+.nav-links{
+    color: whitesmoke;
+    font-family: 'Albert Sans', Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    padding-right: 4rem ;
+}

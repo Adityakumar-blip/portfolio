@@ -1,0 +1,53 @@
+.main{
+    background-color: black;
+    height: 100vh;
+}
+
+.main.colorchange{
+    background-color: white;
+}
+
+.main>h2{
+    padding-left: 3rem;
+    position: relative;
+    top: 20%;
+    font-size: 5.5rem;
+}
+
+.hello{
+    -webkit-text-stroke: 1px royalblue;
+    color: transparent;
+}
+
+.dot{
+    color: royalblue;
+}
+
+.main>h3{
+    padding-left: 3rem;
+    position: relative;
+    top: 20%;
+    width: 50%;
+}
+
+.buttons{
+    margin-left: 3rem;
+    position: relative;
+    top: 25%;
+}
+
+@media (max-width:480px){
+    .main{
+        height: 90vh;
+    }
+
+    .main>h2{
+        font-size: 5rem;
+    }
+
+    .main>h3{
+        font-size: 1.4rem;
+        width: 100%;
+        padding-right: 2rem;
+    }
+}
