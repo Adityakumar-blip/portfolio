@@ -5,6 +5,25 @@
 
 .main.colorchange{
     background-color: white;
+    animation-name: fadeUp;
+    animation-duration: 2s;
+}
+
+@keyframes fadeUp{
+    0% {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+
+    50% {
+        opacity: 10;
+        transform: translateY(0px);
+    }
+
+    100% {
+        opacity: 100;
+        transform: translateY(0);
+    }
 }
 
 .main>h2{
@@ -12,6 +31,25 @@
     position: relative;
     top: 20%;
     font-size: 5.5rem;
+    animation-name: moveUp;
+    animation-duration: 2s ;
+}
+
+@keyframes moveUp {
+    0% {
+        opacity: 0;
+        transform: translateY(100px);
+    }
+
+    /* 80% {
+        transform: translateY(10px);
+
+    } */
+
+    100% {
+        opacity: 1;
+        transform: translate(0);
+    }
 }
 
 .hello{
@@ -28,6 +66,8 @@
     position: relative;
     top: 20%;
     width: 50%;
+    animation-name: moveUp;
+    animation-duration: 3s;
 }
 
 .buttons{

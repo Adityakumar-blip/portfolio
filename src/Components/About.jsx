@@ -1,6 +1,8 @@
 import React from "react";
 import "./About.css";
 
+import pdf from '../assets/Aditya101.pdf'
+
 import img1 from "../assets/Lost.gif";
 
 const About = () => {
@@ -29,7 +31,7 @@ const About = () => {
         </div>
       </div>
       <div className="button">
-        <button>Download CV</button>
+        <a href={pdf} download><button>Download CV</button></a>
       </div>
     </div>
   );

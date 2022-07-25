@@ -41,5 +41,12 @@
 }
 
 @media (max-width:480px){
-    
+    .social>p{
+        margin: 1rem;
+        margin-left: 0;
+    }
+
+    .social{
+        margin-top: 4rem;
+    }
 }
