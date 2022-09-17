@@ -34,7 +34,7 @@
     justify-content: center;
 }
 
-.social>p{
+.social>a>p{
     margin-left: 1rem;
     color: white;
     font-size: 1.2rem;

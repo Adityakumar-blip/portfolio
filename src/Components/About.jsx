@@ -19,7 +19,7 @@ const About = () => {
                 have top skills in using design softwares like Figma, Adobe XD,
                 Invision and PhotoShop; with prototype tools like Framer and
                 Protopie.<br/><br/> Being a diligent, hardworking and result oriented
-                lady, I always work towards achieving best result on each
+                person, I always work towards achieving best result on each
                 project I lay my hands on.
                 I am passionate about leveraging my diverse backgrounds to decipher challenging problems and create delightful experiences. I honed my skills at web development, technical writing, product design and SEO analytics.
               </p>
