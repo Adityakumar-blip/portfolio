@@ -88,13 +88,12 @@ const Work = () => {
         <div class="col-sm-4">
           <div class="card card-cont">
             <div class="card-body card-decor">
-              <h5 class="card-title">Special title treatment</h5>
+              <h5 class="card-title">Kooky</h5>
               <p class="card-text">
-                With supporting text below as a natural lead-in to additional
-                content.
+                Kooky is a waterless shampoo brand which makes your hair smooth & shiny.
               </p>
-              <a href="#" class="btn btn-primary">
-                Go somewhere
+              <a href="https://kooky101.netlify.app/" target="_blank" class="btn btn-primary">
+                View Project
               </a>
             </div>
           </div>
