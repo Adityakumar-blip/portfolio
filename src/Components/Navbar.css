@@ -1,9 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=My+Soul&family=Yeseva+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@200&family=My+Soul&family=Yeseva+One&display=swap');
 
+@font-face {
+    font-family: 'Samarkan';
+    font-weight: 900;
+    src: local('Samarkan'), url(../assets/fonts/samarkan-font/SamarkanNormal-Gg5D.ttf) format('truetype');
+  }
+
 .navbar-container{
     background-color: black;
-    font-family: 'Albert Sans', Arial, Helvetica, sans-serif;
+    font-family: 'Samarkan', Arial, Helvetica, sans-serif;
     font-weight: 500;
     /* height: 14vh; */
     color: white;
@@ -20,7 +26,7 @@
 
 .nav-links{
     color: whitesmoke;
-    font-family: 'Albert Sans', Arial, Helvetica, sans-serif;
+    font-family: 'Samarkan', Arial, Helvetica, sans-serif;
     font-size: 1.2rem;
     padding-right: 4rem ;
 }

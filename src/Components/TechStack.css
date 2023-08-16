@@ -1,9 +1,16 @@
+@font-face {
+    font-family: 'Samarkan';
+    font-weight: 900;
+    src: local('Samarkan'), url(../assets/fonts/samarkan-font/SamarkanNormal-Gg5D.ttf) format('truetype');
+  }
+
 .techstack>h4{
     margin-top: 3rem;
     padding-left: 3rem;
     font-size: 3rem;
-    -webkit-text-stroke: 1.5px royalblue;
+    -webkit-text-stroke: 1.2px royalblue;
     color: transparent;
+    font-family: 'Samarkan' , Arial, Helvetica, sans-serif;
 }
 
 .logo-container{
@@ -12,7 +19,7 @@
 }
 
 .logo-container>img{
-    width: 70%;
+    width: 50%;
     height: 100%;
 }
 

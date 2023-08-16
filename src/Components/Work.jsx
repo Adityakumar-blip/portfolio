@@ -43,48 +43,6 @@ const Work = () => {
             </div>
           </div>
         </div>
-        {/* <div class="col-sm-4">
-          <div class="card card-cont">
-            <div class="card-body card-decor">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
-                With supporting text below as a natural lead-in to additional
-                content.
-              </p>
-              <a href="#" class="btn btn-primary">
-                Go somewhere
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="card card-cont">
-            <div class="card-body card-decor">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
-                With supporting text below as a natural lead-in to additional
-                content.
-              </p>
-              <a href="#" class="btn btn-primary">
-                Go somewhere
-              </a>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-4">
-          <div class="card card-cont">
-            <div class="card-body card-decor">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">
-                With supporting text below as a natural lead-in to additional
-                content.
-              </p>
-              <a href="#" class="btn btn-primary">
-                Go somewhere
-              </a>
-            </div>
-          </div>
-        </div> */}
         <div class="col-sm-4">
           <div class="card card-cont">
             <div class="card-body card-decor">
@@ -93,6 +51,19 @@ const Work = () => {
                 Kooky is a waterless shampoo brand which makes your hair smooth & shiny.
               </p>
               <a href="https://kooky101.netlify.app/" target="_blank" class="btn btn-primary">
+                View Project
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="card card-cont">
+            <div class="card-body card-decor">
+              <h5 class="card-title">PaisaGroww</h5>
+              <p class="card-text">
+                Paisagroww is a mutual fund advisory website on which you can invest into mutual funds with the help of expert.
+              </p>
+              <a href="https://paisagroww.in/" target="_blank" class="btn btn-primary">
                 View Project
               </a>
             </div>
