@@ -1,52 +1,52 @@
-.footer-cont{
-    background-color: black;
-    padding-bottom: 3rem;
+.footer-cont {
+  background-color: #011627;
+  padding-bottom: 3rem;
 }
 
-.footer>h4{
+.footer > h4 {
+  margin-top: 4rem;
+  padding-top: 3rem;
+  padding-left: 3rem;
+  font-size: 3rem;
+  color: #ff9f1c;
+  font-weight: 700;
+}
+
+.footer > h6 {
+  padding-left: 3rem;
+  color: white;
+  font-size: 1.7rem;
+}
+
+.footer > button {
+  margin-top: 2rem;
+  margin-left: 3rem;
+  border: 1px solid royalblue;
+  background: transparent;
+  color: white;
+  width: 12rem;
+  height: 3rem;
+}
+
+.social {
+  display: flex;
+  margin-top: 7rem;
+  justify-content: center;
+}
+
+.social > a > p {
+  margin-left: 1rem;
+  color: white;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 480px) {
+  .social > p {
+    margin: 1rem;
+    margin-left: 0;
+  }
+
+  .social {
     margin-top: 4rem;
-    padding-top: 3rem;
-    padding-left: 3rem;
-    font-size: 3rem;
-    -webkit-text-stroke: 1px royalblue;
-    color: transparent;
-}
-
-.footer>h6{
-    padding-left: 3rem;
-    color: white;
-    font-size: 1.7rem; 
-}
-
-.footer>button{
-    margin-top: 2rem;
-    margin-left: 3rem;
-    border: 1px solid royalblue;
-    background: transparent;
-    color: white;
-    width: 12rem;
-    height: 3rem;
-}
-
-.social{
-    display: flex;
-    margin-top: 7rem;
-    justify-content: center;
-}
-
-.social>a>p{
-    margin-left: 1rem;
-    color: white;
-    font-size: 1.2rem;
-}
-
-@media (max-width:480px){
-    .social>p{
-        margin: 1rem;
-        margin-left: 0;
-    }
-
-    .social{
-        margin-top: 4rem;
-    }
+  }
 }
