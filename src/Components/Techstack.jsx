@@ -6,7 +6,7 @@ const Techstack = () => {
     <div className="techstack">
       <h4>TechStack</h4>
       <div className="tech-logo">
-        <div className="row">
+        <div style={{display:"flex" , flexDirection : "row"}}>
           <div className="col-sm-2 logo-container">
             <img
               src="https://img.icons8.com/color/344/html-5--v1.png"

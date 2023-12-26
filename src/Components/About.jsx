@@ -10,7 +10,7 @@ const About = () => {
     <div className="about" id="about">
       <h4>About Me</h4>
       <div className="about-container">
-        <div className="row g-0">
+        <div style={{display:"flex" , flexDirection : "row"}}>
           <div className="col-md-6 colum">
             <div className="about-body">
               <p className="social-title">
