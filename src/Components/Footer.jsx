@@ -3,17 +3,17 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
-    <div className="footer-cont ">
+    <div className="footer-cont">
       <div className="footer-class">
-        <div className="col-sm-6 footer">
+        <div className="footer">
           <h4>Say hello.</h4>
           <h6>
-            Let me amplify your website <br />
+            Let me amplify your project <br />
             for modern world
           </h6>
           <button>Get in touch</button>
         </div>
-        <div className="col-sm-6 social">
+        <div className=" social">
           <a href="https://github.com/Adityakumar-blip">
             <p>Github</p>
           </a>
