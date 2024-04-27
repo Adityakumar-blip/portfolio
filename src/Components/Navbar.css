@@ -1,11 +1,20 @@
 @import url("https://fonts.googleapis.com/css2?family=My+Soul&family=Yeseva+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Albert+Sans:wght@200&family=My+Soul&family=Yeseva+One&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 @font-face {
   font-family: "Samarkan";
   font-weight: 900;
   src: local("Samarkan"),
     url(../assets/fonts/samarkan-font/SamarkanNormal-Gg5D.ttf)
+      format("truetype");
+}
+
+@font-face {
+  font-family: "mottordam";
+  font-weight: 900;
+  src: local("mottordam"),
+    url(../assets/fonts/motterdaam-font/Motterdam-K74zp.ttf)
       format("truetype");
 }
 
@@ -24,6 +33,7 @@
   font-size: 2rem;
   padding-left: 2rem;
   color: black;
+  font-family: "Yellowtail" , cursive;
 }
 
 .nav-links {

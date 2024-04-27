@@ -34,7 +34,7 @@ const About = () => {
                 edge of technology. I thrive on the challenge of mastering new
                 frameworks, languages, and tools, constantly pushing myself to
                 stay ahead of the curve.
-                <br />
+                {/* <br />
                 <br />
                 It's this insatiable curiosity and drive for innovation that
                 keeps me on my toes, eager to learn, adapt, and evolve in a
@@ -43,7 +43,7 @@ const About = () => {
                 passion for technology, a hunger for challenges, and a knack for
                 problem-solving, I'm excited to see where this adventure takes
                 me. Who knows what amazing things we'll create together? Let's
-                dive in and find out!
+                dive in and find out! */}
               </p>
             </div>
           </div>
